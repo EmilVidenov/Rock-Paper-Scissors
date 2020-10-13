@@ -1,0 +1,11 @@
+C:\Users\Emo\source\repos\Rock,Paper,Scissors\Rock,Paper,Scissors\bin\Debug\netcoreapp3.0\Rock,Paper,Scissors.exe
+C:\Users\Emo\source\repos\Rock,Paper,Scissors\Rock,Paper,Scissors\bin\Debug\netcoreapp3.0\Rock,Paper,Scissors.deps.json
+C:\Users\Emo\source\repos\Rock,Paper,Scissors\Rock,Paper,Scissors\bin\Debug\netcoreapp3.0\Rock,Paper,Scissors.runtimeconfig.json
+C:\Users\Emo\source\repos\Rock,Paper,Scissors\Rock,Paper,Scissors\bin\Debug\netcoreapp3.0\Rock,Paper,Scissors.runtimeconfig.dev.json
+C:\Users\Emo\source\repos\Rock,Paper,Scissors\Rock,Paper,Scissors\bin\Debug\netcoreapp3.0\Rock,Paper,Scissors.dll
+C:\Users\Emo\source\repos\Rock,Paper,Scissors\Rock,Paper,Scissors\bin\Debug\netcoreapp3.0\Rock,Paper,Scissors.pdb
+C:\Users\Emo\source\repos\Rock,Paper,Scissors\Rock,Paper,Scissors\obj\Debug\netcoreapp3.0\Rock,Paper,Scissors.csprojAssemblyReference.cache
+C:\Users\Emo\source\repos\Rock,Paper,Scissors\Rock,Paper,Scissors\obj\Debug\netcoreapp3.0\Rock,Paper,Scissors.AssemblyInfoInputs.cache
+C:\Users\Emo\source\repos\Rock,Paper,Scissors\Rock,Paper,Scissors\obj\Debug\netcoreapp3.0\Rock,Paper,Scissors.AssemblyInfo.cs
+C:\Users\Emo\source\repos\Rock,Paper,Scissors\Rock,Paper,Scissors\obj\Debug\netcoreapp3.0\Rock,Paper,Scissors.dll
+C:\Users\Emo\source\repos\Rock,Paper,Scissors\Rock,Paper,Scissors\obj\Debug\netcoreapp3.0\Rock,Paper,Scissors.pdb
